@@ -1,5 +1,8 @@
 # System Resource Monitor
 
+![Image Name](images/Output.png)
+
+
 ## Description
 This Python script monitors CPU, memory, and disk usage of the system at regular intervals.
 
